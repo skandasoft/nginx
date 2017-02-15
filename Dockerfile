@@ -1,2 +1,4 @@
 FROM nginx
-MAINTAINER skandasoft "skandasoftinc@gmail.com"
+
+ENV email "skandasoftinc@gmail.com"
+ENV url "http://www.skandasoft.com"
