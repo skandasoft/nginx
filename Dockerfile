@@ -1,2 +1,2 @@
 FROM nginx
-expose 80 443
+EXPOSE 81 
