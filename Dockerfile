@@ -1,2 +1,2 @@
 FROM nginx
-EXPOSE 81 
+MAINTAINER skandasoft "skandasoftinc@gmail.com"
